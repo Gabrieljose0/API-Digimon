@@ -14,7 +14,7 @@ Este repositório contém um projeto desenvolvido em PHP, utilizando a API de Di
 -Interface Responsiva: A aplicação utiliza Bootstrap para garantir que a interface seja responsiva em diferentes dispositivos.
 
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 -PHP: Backend responsável por realizar as requisições à API de Digimon e à API do The Movie DB.
 
 
