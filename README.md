@@ -30,27 +30,6 @@ Este repositório contém um projeto desenvolvido em PHP, utilizando a API de Di
 -The Movie DB API: Utilizada para complementar a informação dos Digimons com dados adicionais sobre filmes e séries.
 
 
-#Requisitos
-Para rodar o projeto localmente, você precisará de:
-
--PHP 7.x ou superior
-
-
--Servidor web (Apache ou Nginx)
-
-
-# Instalação
-Clone este repositório:
-1. git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-
-2. Navegue até o diretório do projeto:
-cd nome-do-repositorio
-
-
-3. Inicie o servidor web e acesse o projeto pelo navegador:
-php -S localhost:8000
-
 
 # Licença
 
